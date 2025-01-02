@@ -1,29 +1,101 @@
 [
   {
-    "role": "Software Engineer",
-    "organization": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Senior Full Stack Software Engineer (Contract)",
+    "organization": "My Editor Inc",
+    "startDate": "May, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organization": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organization": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Pitched and oversaw the full development of in-house web based tooling and data storage.",
+      "Architected a front-end React web tool that increased productivity 37%.",
+      "Engineered a scale-able MongoDB back-end that reduced productivity downtime by 24%.",
+      "Implemented coding best practices and unit testing to reduce tech debt and improve future development turnaround times."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/myeditor.png"
+  },
+  {
+    "role": "Tooling Architect / Lead Engineer - Full Stack Software Engineer 2",
+    "organization": "Zynga",
+    "startDate": "Jan, 2020",
+    "endDate": "Jan, 2024",
+    "experiences": [
+      "Owned, maintained and innovated a moderate collection of digital tooling products that support an app with millions of daily active users. Innovations reduced tool development by 428%. Turning 3 month projects into 3 week ones.",
+      "Architect digital solutions that improve the quality of work done across a multitude of different departments. Tools improved content integration by 144% and reduced user error by 86%.",
+      "Engineered content integration tools using a wide range of web frameworks including React, Mobx, React-Native and ExpressJS, Javascript/Typescript, React-bootstrap, Webpack, SCSS/CSS. Setting a high level of code quality through unit test solutions like Linter/ESLinter, Jest, RSpec and Cucumber.",
+      "Maintaining and reviewing multiple large repositories of source code through GitHub Enterprise. Creating development solutions for engineers using NVM, NPM, Gulp, Docker containers, GitHub repositories, and NodeJS.",
+      "Communicating large initiatives through a multitude of leadership levels from onboarding co-op engineers up to directors, content integrators, project managers and other non technical leads.",
+      "Enforced a standard of coding practices and peer review processing to reduce tech debt and improve code quality by 162%.",
+      "Mentoring peers as they grow in their careers and provide higher qualities of output."
+    ],
+    "imageSrc": "history/T2_Zynga.png"
+  },
+  {
+    "role": "Lead Client Side Software / Mobile Engineer - Full Stack Developer",
+    "organization": "Parlay Gaming Inc",
+    "startDate": "Jun, 2011",
+    "endDate": "Jab, 2020",
+    "experiences": [
+      "Designed and kept up client-side social and gaming apps to guarantee a smooth user experience.",
+      "Modern performance standards have been updated into legacy products, improving overall functioning.",
+      "AS2/AS3 products were converted to HTML5, SCSS, JavaScript, and Node.js in order to increase performance and compatibility.",
+      "To increase accessibility and reach, cross-platform solutions for Windows, iOS, and Android were developed.",
+      "Oversaw six team members, promoted teamwork, and kept an eye on project deadlines while researching new technologies such as Unity and Construct 2/3."
+    ],
+    "imageSrc": "history/Parlay.png"
+  },
+  {
+    "role": "Flex Developer",
+    "organization": "LetoSoft Corporation",
+    "startDate": "Dec, 2010",
+    "endDate": "May, 2011",
+    "experiences": [
+      "Created high-performing social and gaming application user interfaces to increase user engagement.",
+      "Dynamic and responsively designed interface elements to enhance the overall performance of the program.",
+      "Worked together to guarantee that functionality and user experience were seamlessly integrated with designers and stakeholders.",
+      "To guarantee seamless interactions and rapid load times, performance testing and optimization were carried out.",
+      "Maintained readability and quality of code by putting best practices for UI development into practice."
+    ],
+    "imageSrc": "history/LetoSoft.png"
+  },
+  {
+    "role": "Flash / Flex Developer",
+    "organization": "Hitgrab Inc",
+    "startDate": "Aug, 2010",
+    "endDate": "Oct, 2010",
+    "experiences": [
+      "Created social concept gaming user interfaces to increase player involvement.",
+      "Responsive game elements that are engineered for better usability and performance.",
+      "Worked in tandem with designers to match user experience and game mechanics.",
+      "Interfaces that have been optimized for fast load times and seamless operation.",
+      "Best practices were used to guarantee scalable and maintainable programming."
+    ],
+    "imageSrc": "history/HitGrab.png"
+  },
+  {
+    "role": "Senior Flex Developer (Contract)",
+    "organization": "Outside The Cubicle",
+    "startDate": "May, 2009",
+    "endDate": "Nov, 2009",
+    "experiences": [
+      "Improved user accessibility by adding language support to a touch screen food intake application for Pizza Pizza.",
+      "Created a software for Tier 1 support technicians that provides streaming video assistance.",
+      "Worked in tandem with groups to smoothly include multilingual features.",
+      "Carried out usability testing to improve the touch screen user interface.",
+      "Used best practices to preserve the performance and quality of the code."
+    ],
+    "imageSrc": "history/OutsideTheCubicle.png"
+  },
+  {
+    "role": "Project Manager, Flash Developer / Animator",
+    "organization": "Buzz Interactive",
+    "startDate": "Jab, 2008",
+    "endDate": "May, 2009",
+    "experiences": [
+      "Oversaw four team members, several projects and clients to ensure timely delivery.",
+      "Developed and delivered proposals to win over new client business.",
+      "Developed creative Flash UI ideas to improve user interaction.",
+      "For best results, a digital signage system was upgraded and maintained for TD Bank.",
+      "Simple games were created to increase user engagement and enjoyment."
+    ],
+    "imageSrc": "history/BuzzInteractive.png"
   }
 ]

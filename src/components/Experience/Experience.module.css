@@ -17,16 +17,17 @@
 
 .content {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-evenly;
   margin-top: 14px;
 }
 
 .skills {
-  width: 45%;
+  width: 95%;
   display: flex;
   flex-wrap: wrap;
   gap: 37px;
+  padding-bottom: 40px;
 }
 
 .skill {
@@ -57,7 +58,7 @@
 }
 
 .history {
-  width: 45%;
+  width: 95%;
   display: flex;
   flex-direction: column;
   gap: 40px;
@@ -65,8 +66,8 @@
 
 .historyItem {
   display: flex;
-  flex-direction: row;
-  align-items: center;
+  flex-direction: column;
+  align-items: left;
   gap: 17px;
   background: var(--color-secondary);
   background: linear-gradient(
@@ -75,19 +76,34 @@
     rgba(25, 55, 109, 0) 100%
   );
   border-radius: 10px;
-  padding: 24px;
+  padding: 18px 36px;
+}
+
+.historyItemHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
 }
 
 .historyItem img {
-  width: 50px;
+  height: 50px;
 }
 
 .historyItemDetails {
+  display: flex;
+  flex-direction: column;
   font-family: var(--font-roboto);
 }
 
 .historyItemDetails h3 {
   font-size: 30px;
+  font-weight: 500;
+}
+
+.historyItemDetails h2 {
+  font-size: 25px;
+  font-style: italic;
   font-weight: 500;
 }
 
