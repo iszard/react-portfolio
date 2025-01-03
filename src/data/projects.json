@@ -1,11 +1,27 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Bingo Lands",
+    "imageSrc": "projects/BingoLands.png",
+    "description": "Bingo Lands is a multiplayer online bingo game and Mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "skills": [
+      "iOS App",
+      "Android App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "Phaser3",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Java",
+      "Webpack",
+      "Docker",
+      "jQuery"
+    ],
+    "demo": "https://www.bingolands.com/"
   },
   {
     "title": "Project B",

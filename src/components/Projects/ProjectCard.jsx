@@ -8,12 +8,12 @@ const ProjectCard = ({
 }) => {
   return (
     <div className={styles.container}>
+      <h3 className={styles.title}>{title}</h3>
       <img
         className={styles.iamge}
         src={getImageUrl(imageSrc)}
         alt={`Image of ${title}`}
       />
-      <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
         {skills.map((skill, id) => {
@@ -28,9 +28,11 @@ const ProjectCard = ({
         <a className={styles.link} href={demo}>
           Demo
         </a>
-        <a className={styles.link} href={source}>
-          Source
-        </a>
+        {source && (
+          <a className={styles.link} href={source}>
+            Source
+          </a>
+        )}
       </div>
     </div>
   );

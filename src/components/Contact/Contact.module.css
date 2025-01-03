@@ -2,26 +2,26 @@
 
 .container {
   color: var(--color-text);
-  margin-top: 120px;
+  margin-top: 7.5rem; /* 120px */
   background-color: var(--color-secondary);
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   width: 100vw;
-  padding: 58px 10%;
-  gap: 10px;
+  padding: 3.625rem 10%; /* 58px 10% */
+  gap: 0.625rem; /* 10px */
 }
 
 .text h2 {
-  font-size: 80px;
+  font-size: 5rem; /* 80px */
   font-weight: 700;
-  letter-spacing: 4px;
+  letter-spacing: 0.25rem; /* 4px */
 }
 
 .text p {
-  font-size: 40px;
+  font-size: 2.5rem; /* 40px */
   font-weight: 400;
-  letter-spacing: 2px;
+  letter-spacing: 0.125rem; /* 2px */
 }
 
 .links {
@@ -29,27 +29,27 @@
   flex-direction: column;
   align-items: flex-start;
   list-style: none;
-  gap: 26px;
+  gap: 1.625rem; /* 26px */
 }
 
 .link {
   display: flex;
   align-items: center;
-  gap: 25px;
+  gap: 1.5625rem; /* 25px */
 }
 
 .link a {
   color: var(--color-text);
   text-decoration: none;
-  font-size: 30px;
+  font-size: 1.875rem; /* 30px */
   font-weight: 400;
-  letter-spacing: 1.5px;
+  letter-spacing: 0.09375rem; /* 1.5px */
 }
 
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
-    gap: 23px;
+    gap: 1.4375rem; /* 23px */
   }
 
   .text {

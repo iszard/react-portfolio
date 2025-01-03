@@ -5,13 +5,13 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 61px;
+  padding-top: 3.8125rem; /* 61px */
   z-index: 2;
   margin: 0 10%;
 }
 
 .title {
-  font-size: 30px;
+  font-size: 1.875rem; /* 30px */
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
@@ -27,12 +27,12 @@
 
 .menuItems {
   display: flex;
-  gap: 47px;
+  gap: 2.9375rem; /* 47px */
   list-style: none;
 }
 
 .menuItems a {
-  font-size: 25px;
+  font-size: 1.5625rem; /* 25px */
   color: var(--color-text);
   text-decoration: none;
 }
@@ -49,7 +49,7 @@
     margin-right: 10%;
     flex-direction: column;
     align-items: flex-end;
-    gap: 11px;
+    gap: 0.6875rem; /* 11px */
     z-index: 3;
   }
 
@@ -62,16 +62,16 @@
     display: none;
     flex-direction: column;
     align-items: center;
-    gap: 13px;
-    border-radius: 10px;
+    gap: 0.8125rem; /* 13px */
+    border-radius: 0.625rem; /* 10px */
     background: rgb(25, 55, 109);
     background: linear-gradient(
       0deg,
       rgba(25, 55, 109, 0.2) 0%,
       rgba(25, 55, 109, 1) 100%
     );
-    padding: 24px 33px;
-    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+    padding: 1.5rem 2.0625rem; /* 24px 33px */
+    box-shadow: 0 0 0.25rem 0 rgba(0, 0, 0, 0.25); /* 0 0 4px 0 */
   }
 
   .menuOpen {

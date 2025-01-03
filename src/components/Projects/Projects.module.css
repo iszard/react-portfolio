@@ -1,26 +1,26 @@
 @import "../../vars.css";
 
 .container {
-  margin-top: 76px;
+  margin-top: 4.75rem; /* 76px */
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
 }
 
 .title {
-  font-size: 35px;
+  font-size: 2.1875rem; /* 35px */
   font-weight: 700;
-  letter-spacing: 1.75px;
+  letter-spacing: 0.109375rem; /* 1.75px */
   text-transform: uppercase;
 }
 
 .projects {
-  margin-top: 37px;
+  margin-top: 2.3125rem; /* 37px */
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 15px;
+  gap: 0.9375rem; /* 15px */
   width: 100%;
 }
