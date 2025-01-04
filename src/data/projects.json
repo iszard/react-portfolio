@@ -1,8 +1,14 @@
 [
   {
     "title": "Bingo Lands",
-    "imageSrc": "projects/BingoLands.png",
-    "description": "Bingo Lands is a multiplayer online bingo game and Mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "imageSrc": [
+      "projects/bingoLands/BingoLands_icon.png",
+      "projects/bingoLands/BingoLands_realm_select.png",
+      "projects/bingoLands/BingoLands_level_select.png",
+      "projects/bingoLands/BingoLands_game_play.png",
+      "projects/bingoLands/BingoLands_inventory.png"
+    ],
+    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
     "skills": [
       "iOS App",
       "Android App",
@@ -11,12 +17,12 @@
       "Typescript",
       "ExpressJS",
       "NodeJS",
-      "Phaser3",
+      "Phaser2",
+      "PixiJS",
       "CSS",
       "SASS",
       "HTML5",
       "RESTful API",
-      "Java",
       "Webpack",
       "Docker",
       "jQuery"
@@ -24,18 +30,65 @@
     "demo": "https://www.bingolands.com/"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
+    "title": "Bejeweled Clone",
+    "imageSrc": ["projects/bejeweled/Bejeweled_icon.png"],
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": [
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "Phaser2",
+      "PixiJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ]
+  },
+  {
+    "title": "Bingo",
+    "imageSrc": [
+      "projects/bingo/Bingo_icon.png",
+      "projects/bingo/Bingo_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Java",
+      "Webpack",
+      "Docker"
+    ]
   },
   {
     "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "imageSrc": ["projects/bingo/Bingo_icon.png"],
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": [
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Java",
+      "Webpack",
+      "Docker"
+    ],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

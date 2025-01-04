@@ -1,0 +1,50 @@
+.swiper {
+  width: 25.75rem;
+  height: 17.3125rem;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 1.125rem;
+}
+
+.swiper-slide img {
+  width: inherit;
+  height: inherit;
+  max-width: 100%;
+  max-height: 100%;
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+/* Override the default nav symbols */
+.swiper-button-prev {
+  background-image: url(/assets/nav/arrow-right.svg) !important;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.swiper-button-prev::after {
+  display: none;
+}
+
+.swiper-button-next {
+  background-image: url(/assets/nav/arrow-right.svg) !important;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+
+.swiper-button-next::after {
+  display: none;
+}
