@@ -17,8 +17,11 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I&apos;m a frontend developer with experience in building
-                responsive and optimized sites.
+                As a Front-End Engineer, I specialize in crafting intuitive,
+                responsive user interfaces that deliver exceptional experiences.
+                Leveraging modern tools like React, TypeScript, and CSS/SCSS, I
+                build scalable, dynamic applications with a keen eye for design
+                and performance.
               </p>
             </div>
           </li>
@@ -27,8 +30,11 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs.
+                As a Back-End Engineer, I focus on building scalable, secure,
+                and efficient systems that power seamless user experiences. With
+                expertise in Node.js, MongoDB, and cloud technologies like AWS,
+                I design robust architectures and microservices that optimize
+                performance and reliability.
               </p>
             </div>
           </li>
@@ -37,8 +43,10 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well.
+                As a UI Designer, I blend creativity with functionality to craft
+                visually stunning and user-friendly interfaces. Using tools like
+                Figma and modern design principles, I ensure every element not
+                only looks great but enhances usability.
               </p>
             </div>
           </li>
