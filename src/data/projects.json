@@ -12,6 +12,7 @@
     "skills": [
       "iOS App",
       "Android App",
+      "Mobile App",
       "Web App",
       "Javascript",
       "Typescript",
@@ -72,10 +73,584 @@
     ]
   },
   {
+    "title": "Blackjack",
+    "imageSrc": [
+      "projects/blackjack/Blackjack_icon.png",
+      "projects/blackjack/Blackjack_bet.png",
+      "projects/blackjack/Blackjack_game_play.png",
+      "projects/blackjack/Blackjack_outcome.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=tableGames"
+  },
+  {
+    "title": "Roulette",
+    "imageSrc": ["projects/roulette/Roulette_icon.png"],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ]
+  },
+  {
+    "title": "Pull Tabs",
+    "imageSrc": [
+      "projects/pulltabs/PullTabs_icon.png",
+      "projects/pulltabs/PullTabs_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=instantWin"
+  },
+  {
+    "title": "Classic Cinema",
+    "imageSrc": [
+      "projects/slots/CinemaClassic_icon.png",
+      "projects/slots/CinemaClassic_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Fairground Frenzy",
+    "imageSrc": [
+      "projects/slots/FairgroundFrenzy_icon.png",
+      "projects/slots/FairgroundFrenzy_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Fruity Frenzy",
+    "imageSrc": [
+      "projects/slots/FruityFrenzy_icon.png",
+      "projects/slots/FruityFrenzy_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Get Cracking",
+    "imageSrc": [
+      "projects/slots/GetCracking_icon.png",
+      "projects/slots/GetCracking_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Halloween Treats",
+    "imageSrc": [
+      "projects/slots/HalloweenTreats_icon.png",
+      "projects/slots/HalloweenTreats_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Makin Bacon",
+    "imageSrc": [
+      "projects/slots/MakinBacon_icon.png",
+      "projects/slots/MakinBacon_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Pirates Revenge 9 line",
+    "imageSrc": [
+      "projects/slots/PiratesRevenge-9_icon.png",
+      "projects/slots/PiratesRevenge-9_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Pirates Revenge 25 line",
+    "imageSrc": [
+      "projects/slots/PiratesRevenge-25_icon.png",
+      "projects/slots/PiratesRevenge-25_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Pirates Treasure",
+    "imageSrc": [
+      "projects/slots/PiratesTreasure_icon.png",
+      "projects/slots/PiratesTreasure_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Serpents Riches",
+    "imageSrc": [
+      "projects/slots/SerpentsRiches_icon.png",
+      "projects/slots/SerpentsRiches_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "The Black Diamonds",
+    "imageSrc": [
+      "projects/slots/TheBlackDiamonds_icon.png",
+      "projects/slots/TheBlackDiamonds_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "Trolling For Treasure",
+    "imageSrc": [
+      "projects/slots/TrollingForTreasure_icon.png",
+      "projects/slots/TrollingForTreasure_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=slots"
+  },
+  {
+    "title": "10s Or Better",
+    "imageSrc": [
+      "projects/videoPoker/10sOrBetter_icon.png",
+      "projects/videoPoker/10sOrBetter_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
+    "title": "All American",
+    "imageSrc": [
+      "projects/videoPoker/AllAmerican_icon.png",
+      "projects/videoPoker/AllAmerican_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
+    "title": "Bonus Poker",
+    "imageSrc": [
+      "projects/videoPoker/BonusPoker_icon.png",
+      "projects/videoPoker/BonusPoker_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
+    "title": "Bonus Poker Deluxe",
+    "imageSrc": [
+      "projects/videoPoker/BonusPokerDeluxe_icon.png",
+      "projects/videoPoker/BonusPokerDeluxe_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
+    "title": "Deuces & Jokers",
+    "imageSrc": [
+      "projects/videoPoker/Deuces&Jokers_icon.png",
+      "projects/videoPoker/Deuces&Jokers_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
+    "title": "Deuces Wild",
+    "imageSrc": [
+      "projects/videoPoker/DeucesWild_icon.png",
+      "projects/videoPoker/DeucesWild_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
+    "title": "Double Bonus",
+    "imageSrc": [
+      "projects/videoPoker/DoubleBonus_icon.png",
+      "projects/videoPoker/DoubleBonus_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
+    "title": "Double Joker",
+    "imageSrc": [
+      "projects/videoPoker/DoubleJoker_icon.png",
+      "projects/videoPoker/DoubleJoker_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
+    "title": "Jacks Or Better",
+    "imageSrc": [
+      "projects/videoPoker/JacksOrBetter_icon.png",
+      "projects/videoPoker/JacksOrBetter_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
+    "title": "Joker Poker",
+    "imageSrc": [
+      "projects/videoPoker/JokerPoker_icon.png",
+      "projects/videoPoker/JokerPoker_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/casino?section=videoPoker"
+  },
+  {
     "title": "Project C",
     "imageSrc": ["projects/bingo/Bingo_icon.png"],
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": [
+      "Mobile App",
       "Web App",
       "Javascript",
       "Typescript",
