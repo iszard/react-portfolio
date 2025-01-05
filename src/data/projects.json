@@ -1,5 +1,30 @@
 [
   {
+    "title": "Words With Friends",
+    "imageSrc": [
+      "projects/wordsWithFriends/WordsWithFriends_icon.png",
+      "projects/wordsWithFriends/WordsWithFriends_game_play_web.png",
+      "projects/wordsWithFriends/WordsWithFriends_game_play_app.png"
+    ],
+    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "skills": [
+      "iOS App",
+      "Android App",
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "React",
+      "React Native",
+      "NodeJS",
+      "CSS",
+      "RESTful API",
+      "Docker",
+      "Ruby on Rails"
+    ],
+    "demo": "https://www.bingolands.com/"
+  },
+  {
     "title": "Bingo Lands",
     "imageSrc": [
       "projects/bingoLands/BingoLands_icon.png",
@@ -26,7 +51,8 @@
       "RESTful API",
       "Webpack",
       "Docker",
-      "jQuery"
+      "jQuery",
+      "Photoshop CC"
     ],
     "demo": "https://www.bingolands.com/"
   },
@@ -47,7 +73,8 @@
       "HTML5",
       "RESTful API",
       "Webpack",
-      "Docker"
+      "Docker",
+      "Photoshop CC"
     ]
   },
   {
@@ -646,8 +673,11 @@
     "demo": "https://playbingo.games/casino?section=videoPoker"
   },
   {
-    "title": "Project C",
-    "imageSrc": ["projects/bingo/Bingo_icon.png"],
+    "title": "Jogo Do Bicho",
+    "imageSrc": [
+      "projects/videoBingo/JogoDoBicho_icon.png",
+      "projects/videoBingo/JogoDoBicho_game_play.png"
+    ],
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": [
       "Mobile App",
@@ -660,11 +690,285 @@
       "SASS",
       "HTML5",
       "RESTful API",
-      "Java",
       "Webpack",
       "Docker"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Nineballs",
+    "imageSrc": [
+      "projects/videoBingo/Nineballs_icon.png",
+      "projects/videoBingo/Nineballs_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Nineballs 9",
+    "imageSrc": [
+      "projects/videoBingo/Nineballs9_icon.png",
+      "projects/videoBingo/Nineballs9_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Pachinko 3",
+    "imageSrc": [
+      "projects/videoBingo/Pachinko3_icon.png",
+      "projects/videoBingo/Pachinko3_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Pachinko Plus",
+    "imageSrc": [
+      "projects/videoBingo/PachinkoPlus_icon.png",
+      "projects/videoBingo/PachinkoPlus_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Pharaoh Bingo",
+    "imageSrc": [
+      "projects/videoBingo/PharaohBingo_icon.png",
+      "projects/videoBingo/PharaohBingo_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Pharaos",
+    "imageSrc": [
+      "projects/videoBingo/Pharaos_icon.png",
+      "projects/videoBingo/Pharaos_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Showball 3",
+    "imageSrc": [
+      "projects/videoBingo/Showball3_icon.png",
+      "projects/videoBingo/Showball3_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Showball Max",
+    "imageSrc": [
+      "projects/videoBingo/ShowballMax_icon.png",
+      "projects/videoBingo/ShowballMax_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Silverball",
+    "imageSrc": [
+      "projects/videoBingo/Silverball_icon.png",
+      "projects/videoBingo/Silverball_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Silverball Plus",
+    "imageSrc": [
+      "projects/videoBingo/SilverballPlus_icon.png",
+      "projects/videoBingo/SilverballPlus_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Silverball Premium",
+    "imageSrc": [
+      "projects/videoBingo/SilverballPremium_icon.png",
+      "projects/videoBingo/SilverballPremium_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
+  },
+  {
+    "title": "Turbo H7",
+    "imageSrc": [
+      "projects/videoBingo/TurboH7_icon.png",
+      "projects/videoBingo/TurboH7_game_play.png"
+    ],
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "Javascript",
+      "Typescript",
+      "ExpressJS",
+      "NodeJS",
+      "CSS",
+      "SASS",
+      "HTML5",
+      "RESTful API",
+      "Webpack",
+      "Docker"
+    ],
+    "demo": "https://playbingo.games/videobingo"
   }
 ]

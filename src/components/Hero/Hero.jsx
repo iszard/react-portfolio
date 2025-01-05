@@ -26,7 +26,7 @@ export const Hero = () => {
           problem-solving to projects across gaming, social platforms, and
           enterprise solutions, delivering impactful and exceptional results.
         </p>
-        <a className={styles.contactBtn} href="mailto:gavynelrick@gmail.com">
+        <a className={styles.contactBtn} href="mailto:gavyn.elrick@gmail.com">
           Contact Me
         </a>
       </div>
