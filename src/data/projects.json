@@ -6,7 +6,7 @@
       "projects/wordsWithFriends/WordsWithFriends_game_play_web.png",
       "projects/wordsWithFriends/WordsWithFriends_game_play_app.png"
     ],
-    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "description": "An Online scrabble web game and mobile app. The game is built was built in React and later converted to Unity.",
     "skills": [
       "iOS App",
       "Android App",
@@ -33,7 +33,7 @@
       "projects/bingoLands/BingoLands_game_play.png",
       "projects/bingoLands/BingoLands_inventory.png"
     ],
-    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "description": "Multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
     "skills": [
       "iOS App",
       "Android App",
@@ -65,7 +65,7 @@
       "projects/hostingCompanySite-CSSDEMO/cssdemo_customers.png",
       "projects/hostingCompanySite-CSSDEMO/cssdemo_form.png"
     ],
-    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "description": "A project to refine my CSS knowledge. The website is built with a mobile-first approach and is fully responsive.",
     "skills": ["Mobile App", "Web App", "Javascript", "CSS"],
     "source": "https://github.com/iszard/CSS-company-demo-site"
   },
@@ -77,7 +77,7 @@
       "projects/phaserMMO/PhaserMMO_image_3.png",
       "projects/phaserMMO/PhaserMMO_image_4.png"
     ],
-    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "description": "Massive multiplayer online roleplaying web game. This project is to grow my experience in building MMO games in Phaser 3.",
     "skills": [
       "Javascript",
       "Phaser 3",
@@ -100,7 +100,7 @@
       "projects/pokieWorld/PokieWorld_image_3.png",
       "projects/pokieWorld/PokieWorld_image_4.png"
     ],
-    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "description": "Pokemon styled top down roleplaying game built with Phaser 3.",
     "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Photoshop CS6"],
     "source": "https://github.com/iszard/pokie_world"
   },
@@ -111,7 +111,7 @@
       "projects/rogueDungeonCrawler/RogueDungeonCrawler_image_2.png",
       "projects/rogueDungeonCrawler/RogueDungeonCrawler_image_3.png"
     ],
-    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "description": "Rogue like dungeon crawler game used to learn about dynamically generated game maps.",
     "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Photoshop CS6"],
     "source": "https://github.com/iszard/rogue_dungeon_crawler"
   },
@@ -124,14 +124,14 @@
       "projects/phaser3Platformer/Phaser3Platformer_image_4.png",
       "projects/phaser3Platformer/Phaser3Platformer_image_5.png"
     ],
-    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "description": "Exploring platform games in Pixi and Phaser 3.",
     "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Photoshop CS6"],
     "source": "https://github.com/iszard/phaser3_platformer"
   },
   {
     "title": "Bejeweled Clone",
     "imageSrc": ["projects/bejeweled/Bejeweled_icon.png"],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "An enjoyable Pick 3 attempt with combining power-ups and custom stage layouts.",
     "skills": [
       "Web App",
       "Javascript",
@@ -155,7 +155,7 @@
       "projects/bingo/Bingo_icon.png",
       "projects/bingo/Bingo_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Flag ship game for Parlay that combined not only bingo but the companies casino suite and chat community.",
     "skills": [
       "Web App",
       "Javascript",
@@ -179,7 +179,7 @@
       "projects/blackjack/Blackjack_game_play.png",
       "projects/blackjack/Blackjack_outcome.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -199,7 +199,7 @@
   {
     "title": "Roulette",
     "imageSrc": ["projects/roulette/Roulette_icon.png"],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -221,7 +221,7 @@
       "projects/pulltabs/PullTabs_icon.png",
       "projects/pulltabs/PullTabs_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Created for Parlay as they attempt to branch out into new game types.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -244,7 +244,7 @@
       "projects/slots/CinemaClassic_icon.png",
       "projects/slots/CinemaClassic_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -267,7 +267,7 @@
       "projects/slots/FairgroundFrenzy_icon.png",
       "projects/slots/FairgroundFrenzy_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -290,7 +290,7 @@
       "projects/slots/FruityFrenzy_icon.png",
       "projects/slots/FruityFrenzy_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -313,7 +313,7 @@
       "projects/slots/GetCracking_icon.png",
       "projects/slots/GetCracking_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -336,7 +336,7 @@
       "projects/slots/HalloweenTreats_icon.png",
       "projects/slots/HalloweenTreats_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -359,7 +359,7 @@
       "projects/slots/MakinBacon_icon.png",
       "projects/slots/MakinBacon_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -382,7 +382,7 @@
       "projects/slots/PiratesRevenge-9_icon.png",
       "projects/slots/PiratesRevenge-9_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -405,7 +405,7 @@
       "projects/slots/PiratesRevenge-25_icon.png",
       "projects/slots/PiratesRevenge-25_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -428,7 +428,7 @@
       "projects/slots/PiratesTreasure_icon.png",
       "projects/slots/PiratesTreasure_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -451,7 +451,7 @@
       "projects/slots/SerpentsRiches_icon.png",
       "projects/slots/SerpentsRiches_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -474,7 +474,7 @@
       "projects/slots/TheBlackDiamonds_icon.png",
       "projects/slots/TheBlackDiamonds_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -497,7 +497,7 @@
       "projects/slots/TrollingForTreasure_icon.png",
       "projects/slots/TrollingForTreasure_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -520,7 +520,7 @@
       "projects/videoPoker/10sOrBetter_icon.png",
       "projects/videoPoker/10sOrBetter_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -543,7 +543,7 @@
       "projects/videoPoker/AllAmerican_icon.png",
       "projects/videoPoker/AllAmerican_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -566,7 +566,7 @@
       "projects/videoPoker/BonusPoker_icon.png",
       "projects/videoPoker/BonusPoker_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -589,7 +589,7 @@
       "projects/videoPoker/BonusPokerDeluxe_icon.png",
       "projects/videoPoker/BonusPokerDeluxe_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -612,7 +612,7 @@
       "projects/videoPoker/Deuces&Jokers_icon.png",
       "projects/videoPoker/Deuces&Jokers_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -635,7 +635,7 @@
       "projects/videoPoker/DeucesWild_icon.png",
       "projects/videoPoker/DeucesWild_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -658,7 +658,7 @@
       "projects/videoPoker/DoubleBonus_icon.png",
       "projects/videoPoker/DoubleBonus_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -681,7 +681,7 @@
       "projects/videoPoker/DoubleJoker_icon.png",
       "projects/videoPoker/DoubleJoker_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -704,7 +704,7 @@
       "projects/videoPoker/JacksOrBetter_icon.png",
       "projects/videoPoker/JacksOrBetter_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -727,7 +727,7 @@
       "projects/videoPoker/JokerPoker_icon.png",
       "projects/videoPoker/JokerPoker_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -750,7 +750,7 @@
       "projects/videoBingo/JogoDoBicho_icon.png",
       "projects/videoBingo/JogoDoBicho_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -773,7 +773,7 @@
       "projects/videoBingo/Nineballs_icon.png",
       "projects/videoBingo/Nineballs_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -796,7 +796,7 @@
       "projects/videoBingo/Nineballs9_icon.png",
       "projects/videoBingo/Nineballs9_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -819,7 +819,7 @@
       "projects/videoBingo/Pachinko3_icon.png",
       "projects/videoBingo/Pachinko3_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -842,7 +842,7 @@
       "projects/videoBingo/PachinkoPlus_icon.png",
       "projects/videoBingo/PachinkoPlus_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -865,7 +865,7 @@
       "projects/videoBingo/PharaohBingo_icon.png",
       "projects/videoBingo/PharaohBingo_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -888,7 +888,7 @@
       "projects/videoBingo/Pharaos_icon.png",
       "projects/videoBingo/Pharaos_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -911,7 +911,7 @@
       "projects/videoBingo/Showball3_icon.png",
       "projects/videoBingo/Showball3_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -934,7 +934,7 @@
       "projects/videoBingo/ShowballMax_icon.png",
       "projects/videoBingo/ShowballMax_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -957,7 +957,7 @@
       "projects/videoBingo/Silverball_icon.png",
       "projects/videoBingo/Silverball_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -980,7 +980,7 @@
       "projects/videoBingo/SilverballPlus_icon.png",
       "projects/videoBingo/SilverballPlus_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -1003,7 +1003,7 @@
       "projects/videoBingo/SilverballPremium_icon.png",
       "projects/videoBingo/SilverballPremium_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -1026,7 +1026,7 @@
       "projects/videoBingo/TurboH7_icon.png",
       "projects/videoBingo/TurboH7_game_play.png"
     ],
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Sole client side engineer. Created for Parlay with Phaser 3.",
     "skills": [
       "Mobile App",
       "Web App",
