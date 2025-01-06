@@ -26,5 +26,89 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Phaser",
+    "imageSrc": "skills/phaser.png"
+  },
+  {
+    "title": "PixiJS",
+    "imageSrc": "skills/pixijs.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/c_sharp.png"
+  },
+  {
+    "title": "jQuery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "skills/jira.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kubernetes.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "mySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "NPM",
+    "imageSrc": "skills/npm.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Ruby",
+    "imageSrc": "skills/ruby.png"
+  },
+  {
+    "title": "Vite",
+    "imageSrc": "skills/vite.png"
+  },
+  {
+    "title": "ExpressJS",
+    "imageSrc": "skills/expressjs.png"
+  },
+  {
+    "title": "Webpack",
+    "imageSrc": "skills/webpack.png"
+  },
+  {
+    "title": "Restful API",
+    "imageSrc": "skills/restapi.png"
+  },
+  {
+    "title": "Unity",
+    "imageSrc": "skills/unity.png"
+  },
+  {
+    "title": "Mobx",
+    "imageSrc": "skills/mobx.png"
   }
 ]
