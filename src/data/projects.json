@@ -43,7 +43,7 @@
       "Typescript",
       "ExpressJS",
       "NodeJS",
-      "Phaser2",
+      "Phaser 2",
       "PixiJS",
       "CSS",
       "SASS",
@@ -57,6 +57,78 @@
     "demo": "https://www.bingolands.com/"
   },
   {
+    "title": "Hosting Company Site - CSS DEMO",
+    "imageSrc": [
+      "projects/hostingCompanySite-CSSDEMO/cssdemo_main.png",
+      "projects/hostingCompanySite-CSSDEMO/cssdemo_packest.png",
+      "projects/hostingCompanySite-CSSDEMO/cssdemo_split.png",
+      "projects/hostingCompanySite-CSSDEMO/cssdemo_customers.png",
+      "projects/hostingCompanySite-CSSDEMO/cssdemo_form.png"
+    ],
+    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "skills": ["Mobile App", "Web App", "Javascript", "CSS"],
+    "source": "https://github.com/iszard/CSS-company-demo-site"
+  },
+  {
+    "title": "Phaser MMO - Prototype",
+    "imageSrc": [
+      "projects/phaserMMO/PhaserMMO_image_1.png",
+      "projects/phaserMMO/PhaserMMO_image_2.png",
+      "projects/phaserMMO/PhaserMMO_image_3.png",
+      "projects/phaserMMO/PhaserMMO_image_4.png"
+    ],
+    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "skills": [
+      "Javascript",
+      "Phaser 3",
+      "PixiJS",
+      "ExpressJS",
+      "UUID",
+      "MongoDB",
+      "NodeJS",
+      "Babel",
+      "webpack",
+      "CSS"
+    ],
+    "source": "https://github.com/iszard/Phaser-MMO"
+  },
+  {
+    "title": "Pokie World - Prototype",
+    "imageSrc": [
+      "projects/pokieWorld/PokieWorld_image_1.png",
+      "projects/pokieWorld/PokieWorld_image_2.png",
+      "projects/pokieWorld/PokieWorld_image_3.png",
+      "projects/pokieWorld/PokieWorld_image_4.png"
+    ],
+    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Photoshop CS6"],
+    "source": "https://github.com/iszard/pokie_world"
+  },
+  {
+    "title": "Rogue Dungeon Crawler - Prototype",
+    "imageSrc": [
+      "projects/rogueDungeonCrawler/RogueDungeonCrawler_image_1.png",
+      "projects/rogueDungeonCrawler/RogueDungeonCrawler_image_2.png",
+      "projects/rogueDungeonCrawler/RogueDungeonCrawler_image_3.png"
+    ],
+    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Photoshop CS6"],
+    "source": "https://github.com/iszard/rogue_dungeon_crawler"
+  },
+  {
+    "title": "Platformer - Prototype",
+    "imageSrc": [
+      "projects/phaser3Platformer/Phaser3Platformer_image_1.png",
+      "projects/phaser3Platformer/Phaser3Platformer_image_2.png",
+      "projects/phaser3Platformer/Phaser3Platformer_image_3.png",
+      "projects/phaser3Platformer/Phaser3Platformer_image_4.png",
+      "projects/phaser3Platformer/Phaser3Platformer_image_5.png"
+    ],
+    "description": "A multiplayer online bingo web game and mobile app. The game is built with a mobile-first approach and is fully responsive.",
+    "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Photoshop CS6"],
+    "source": "https://github.com/iszard/phaser3_platformer"
+  },
+  {
     "title": "Bejeweled Clone",
     "imageSrc": ["projects/bejeweled/Bejeweled_icon.png"],
     "description": "This is a project made to learn the latest languages by building an app.",
@@ -66,7 +138,7 @@
       "Typescript",
       "ExpressJS",
       "NodeJS",
-      "Phaser2",
+      "Phaser 2",
       "PixiJS",
       "CSS",
       "SASS",
