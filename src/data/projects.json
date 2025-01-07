@@ -6,7 +6,7 @@
       "projects/wordsWithFriends/WordsWithFriends_game_play_web.png",
       "projects/wordsWithFriends/WordsWithFriends_game_play_app.png"
     ],
-    "description": "An Online scrabble web game and mobile app. The game is built was built in React and later converted to Unity.",
+    "description": "An Online scrabble web game and mobile app. The game is built was built in React Native and later converted to Unity.",
     "skills": [
       "iOS App",
       "Android App",
@@ -52,7 +52,7 @@
       "Webpack",
       "Docker",
       "jQuery",
-      "Photoshop CC"
+      "Adobe Photoshop"
     ],
     "demo": "https://www.bingolands.com/"
   },
@@ -68,6 +68,55 @@
     "description": "A project to refine my CSS knowledge. The website is built with a mobile-first approach and is fully responsive.",
     "skills": ["Mobile App", "Web App", "Javascript", "CSS"],
     "source": "https://github.com/iszard/CSS-company-demo-site"
+  },
+  {
+    "title": "Metroidvania Platformer - Prototype",
+    "imageSrc": [
+      "projects/metroidvania/Metroidvania_image_1.png",
+      "projects/metroidvania/Metroidvania_image_2.png",
+      "projects/metroidvania/Metroidvania_image_3.png",
+      "projects/metroidvania/Metroidvania_image_4.png",
+      "projects/metroidvania/Metroidvania_image_5.png",
+      "projects/metroidvania/Metroidvania_image_6.png",
+      "projects/metroidvania/Metroidvania_image_7.png"
+    ],
+    "description": "Unity prototype of a Metroidvania type platformer dungeon crawler. The project was to learn about level design and game mechanics.",
+    "skills": ["C#", "Unity", "Adobe Photoshop"],
+    "source": "https://github.com/iszard/Phaser-MMO"
+  },
+  {
+    "title": "Clash Of Clain Clone - Prototype",
+    "imageSrc": [
+      "projects/clashOfClainClone/ClashOfClainClone_image_1.png",
+      "projects/clashOfClainClone/ClashOfClainClone_image_2.png",
+      "projects/clashOfClainClone/ClashOfClainClone_image_3.png",
+      "projects/clashOfClainClone/ClashOfClainClone_image_4.png",
+      "projects/clashOfClainClone/ClashOfClainClone_image_5.png",
+      "projects/clashOfClainClone/ClashOfClainClone_image_6.png"
+    ],
+    "description": "After years of playing Clash of Clans. I decided to build a clone to learn about the game mechanics.",
+    "skills": ["C#", "Unity", "Apache", "mySQL", "Adobe Photoshop"],
+    "source": "https://github.com/iszard/Phaser-MMO"
+  },
+  {
+    "title": "Tower Defence - Prototype",
+    "imageSrc": [
+      "projects/towerDefence/TowerDefence_image_1.png",
+      "projects/towerDefence/TowerDefence_image_2.png"
+    ],
+    "description": "Die hard fan of tower defence games. This project was to learn about pathfinding and AI.",
+    "skills": ["C#", "Unity", "Adobe Photoshop"],
+    "source": "https://github.com/iszard/Phaser-MMO"
+  },
+  {
+    "title": "Top Down Plane Shooter - Prototype",
+    "imageSrc": [
+      "projects/topDownPlaneShooter/TopDownPlaneShooter_image_1.png",
+      "projects/topDownPlaneShooter/TopDownPlaneShooter_image_2.png"
+    ],
+    "description": "Simple top down scrolling plane shooter. This project was to learn about AI pathfinding.",
+    "skills": ["C#", "Unity", "Adobe Photoshop"],
+    "source": "https://github.com/iszard/Phaser-MMO"
   },
   {
     "title": "Phaser MMO - Prototype",
@@ -100,8 +149,8 @@
       "projects/pokieWorld/PokieWorld_image_3.png",
       "projects/pokieWorld/PokieWorld_image_4.png"
     ],
-    "description": "Pokemon styled top down roleplaying game built with Phaser 3.",
-    "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Photoshop CS6"],
+    "description": "Pokemon styled top down roleplaying game. This project is to grow my experience in building RPG games in Phaser 3.",
+    "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Adobe Photoshop"],
     "source": "https://github.com/iszard/pokie_world"
   },
   {
@@ -112,7 +161,7 @@
       "projects/rogueDungeonCrawler/RogueDungeonCrawler_image_3.png"
     ],
     "description": "Rogue like dungeon crawler game used to learn about dynamically generated game maps.",
-    "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Photoshop CS6"],
+    "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Adobe Photoshop"],
     "source": "https://github.com/iszard/rogue_dungeon_crawler"
   },
   {
@@ -124,8 +173,8 @@
       "projects/phaser3Platformer/Phaser3Platformer_image_4.png",
       "projects/phaser3Platformer/Phaser3Platformer_image_5.png"
     ],
-    "description": "Exploring platform games in Pixi and Phaser 3.",
-    "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Photoshop CS6"],
+    "description": "Platformer game in Pixi and Phaser 3. This project is to grow my experience in building platform games.",
+    "skills": ["Javascript", "Vite", "Phaser 3", "PixiJS", "Adobe Photoshop"],
     "source": "https://github.com/iszard/phaser3_platformer"
   },
   {
@@ -146,7 +195,7 @@
       "RESTful API",
       "Webpack",
       "Docker",
-      "Photoshop CC"
+      "Adobe Photoshop"
     ]
   },
   {
@@ -179,7 +228,7 @@
       "projects/blackjack/Blackjack_game_play.png",
       "projects/blackjack/Blackjack_outcome.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -199,7 +248,7 @@
   {
     "title": "Roulette",
     "imageSrc": ["projects/roulette/Roulette_icon.png"],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -244,7 +293,7 @@
       "projects/slots/CinemaClassic_icon.png",
       "projects/slots/CinemaClassic_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -267,7 +316,7 @@
       "projects/slots/FairgroundFrenzy_icon.png",
       "projects/slots/FairgroundFrenzy_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -290,7 +339,7 @@
       "projects/slots/FruityFrenzy_icon.png",
       "projects/slots/FruityFrenzy_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -313,7 +362,7 @@
       "projects/slots/GetCracking_icon.png",
       "projects/slots/GetCracking_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -336,7 +385,7 @@
       "projects/slots/HalloweenTreats_icon.png",
       "projects/slots/HalloweenTreats_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -359,7 +408,7 @@
       "projects/slots/MakinBacon_icon.png",
       "projects/slots/MakinBacon_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -382,7 +431,7 @@
       "projects/slots/PiratesRevenge-9_icon.png",
       "projects/slots/PiratesRevenge-9_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -405,7 +454,7 @@
       "projects/slots/PiratesRevenge-25_icon.png",
       "projects/slots/PiratesRevenge-25_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -428,7 +477,7 @@
       "projects/slots/PiratesTreasure_icon.png",
       "projects/slots/PiratesTreasure_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -451,7 +500,7 @@
       "projects/slots/SerpentsRiches_icon.png",
       "projects/slots/SerpentsRiches_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -474,7 +523,7 @@
       "projects/slots/TheBlackDiamonds_icon.png",
       "projects/slots/TheBlackDiamonds_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -497,7 +546,7 @@
       "projects/slots/TrollingForTreasure_icon.png",
       "projects/slots/TrollingForTreasure_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -520,7 +569,7 @@
       "projects/videoPoker/10sOrBetter_icon.png",
       "projects/videoPoker/10sOrBetter_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -543,7 +592,7 @@
       "projects/videoPoker/AllAmerican_icon.png",
       "projects/videoPoker/AllAmerican_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -566,7 +615,7 @@
       "projects/videoPoker/BonusPoker_icon.png",
       "projects/videoPoker/BonusPoker_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -589,7 +638,7 @@
       "projects/videoPoker/BonusPokerDeluxe_icon.png",
       "projects/videoPoker/BonusPokerDeluxe_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -612,7 +661,7 @@
       "projects/videoPoker/Deuces&Jokers_icon.png",
       "projects/videoPoker/Deuces&Jokers_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -635,7 +684,7 @@
       "projects/videoPoker/DeucesWild_icon.png",
       "projects/videoPoker/DeucesWild_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -658,7 +707,7 @@
       "projects/videoPoker/DoubleBonus_icon.png",
       "projects/videoPoker/DoubleBonus_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -681,7 +730,7 @@
       "projects/videoPoker/DoubleJoker_icon.png",
       "projects/videoPoker/DoubleJoker_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -704,7 +753,7 @@
       "projects/videoPoker/JacksOrBetter_icon.png",
       "projects/videoPoker/JacksOrBetter_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",
@@ -727,7 +776,7 @@
       "projects/videoPoker/JokerPoker_icon.png",
       "projects/videoPoker/JokerPoker_game_play.png"
     ],
-    "description": "Solely convert from Flash AS2 to AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
+    "description": "Solely developed the front end in AS3. Then to Javascript canvas and finally Phaser 2. Production product for Parlay.",
     "skills": [
       "Mobile App",
       "Web App",

@@ -1,19 +1,59 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
   },
   {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Mobx",
+    "imageSrc": "skills/mobx.png"
+  },
+  {
+    "title": "Phaser",
+    "imageSrc": "skills/phaser.png"
+  },
+  {
+    "title": "PixiJS",
+    "imageSrc": "skills/pixijs.png"
+  },
+  {
+    "title": "Unity",
+    "imageSrc": "skills/unity.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
     "title": "Node",
     "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Restful API",
+    "imageSrc": "skills/restapi.png"
+  },
+  {
+    "title": "ExpressJS",
+    "imageSrc": "skills/expressjs.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/c_sharp.png"
   },
   {
     "title": "GraphQL",
@@ -28,28 +68,8 @@
     "imageSrc": "skills/figma.png"
   },
   {
-    "title": "Phaser",
-    "imageSrc": "skills/phaser.png"
-  },
-  {
-    "title": "PixiJS",
-    "imageSrc": "skills/pixijs.png"
-  },
-  {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
-  },
-  {
-    "title": "C#",
-    "imageSrc": "skills/c_sharp.png"
-  },
-  {
     "title": "jQuery",
     "imageSrc": "skills/jquery.png"
-  },
-  {
-    "title": "Typescript",
-    "imageSrc": "skills/typescript.png"
   },
   {
     "title": "Jira",
@@ -80,10 +100,6 @@
     "imageSrc": "skills/npm.png"
   },
   {
-    "title": "Bootstrap",
-    "imageSrc": "skills/bootstrap.png"
-  },
-  {
     "title": "Ruby",
     "imageSrc": "skills/ruby.png"
   },
@@ -92,23 +108,7 @@
     "imageSrc": "skills/vite.png"
   },
   {
-    "title": "ExpressJS",
-    "imageSrc": "skills/expressjs.png"
-  },
-  {
     "title": "Webpack",
     "imageSrc": "skills/webpack.png"
-  },
-  {
-    "title": "Restful API",
-    "imageSrc": "skills/restapi.png"
-  },
-  {
-    "title": "Unity",
-    "imageSrc": "skills/unity.png"
-  },
-  {
-    "title": "Mobx",
-    "imageSrc": "skills/mobx.png"
   }
 ]
