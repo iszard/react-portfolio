@@ -97,13 +97,14 @@
     "skills": ["C#", "Unity", "Apache", "mySQL", "Adobe Photoshop"]
   },
   {
-    "title": "Tower Defence - Prototype",
+    "title": "Tower Defense - Prototype",
     "imageSrc": [
-      "projects/towerDefence/TowerDefence_image_1.png",
-      "projects/towerDefence/TowerDefence_image_2.png"
+      "projects/towerDefense/TowerDefense_image_1.png",
+      "projects/towerDefense/TowerDefense_image_2.png"
     ],
-    "description": "Die hard fan of tower defence games. This project was to learn about pathfinding and AI.",
-    "skills": ["C#", "Unity", "Adobe Photoshop"]
+    "description": "Die hard fan of tower defense games. This project was to learn about pathfinding and AI.",
+    "skills": ["C#", "Unity", "Adobe Photoshop"],
+    "source": "https://github.com/iszard/unity-2d-tower-defense"
   },
   {
     "title": "Top Down Plane Shooter - Prototype",
@@ -112,7 +113,8 @@
       "projects/topDownPlaneShooter/TopDownPlaneShooter_image_2.png"
     ],
     "description": "Simple top down scrolling plane shooter. This project was to learn about AI pathfinding.",
-    "skills": ["C#", "Unity", "Adobe Photoshop"]
+    "skills": ["C#", "Unity", "Adobe Photoshop"],
+    "source": "https://github.com/iszard/Unity-TopDownPlaneShooter"
   },
   {
     "title": "Phaser MMO - Prototype",
