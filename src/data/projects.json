@@ -81,8 +81,7 @@
       "projects/metroidvania/Metroidvania_image_7.png"
     ],
     "description": "Unity prototype of a Metroidvania type platformer dungeon crawler. The project was to learn about level design and game mechanics.",
-    "skills": ["C#", "Unity", "Adobe Photoshop"],
-    "source": "https://github.com/iszard/Phaser-MMO"
+    "skills": ["C#", "Unity", "Adobe Photoshop"]
   },
   {
     "title": "Clash Of Clain Clone - Prototype",
@@ -95,8 +94,7 @@
       "projects/clashOfClainClone/ClashOfClainClone_image_6.png"
     ],
     "description": "After years of playing Clash of Clans. I decided to build a clone to learn about the game mechanics.",
-    "skills": ["C#", "Unity", "Apache", "mySQL", "Adobe Photoshop"],
-    "source": "https://github.com/iszard/Phaser-MMO"
+    "skills": ["C#", "Unity", "Apache", "mySQL", "Adobe Photoshop"]
   },
   {
     "title": "Tower Defence - Prototype",
@@ -105,8 +103,7 @@
       "projects/towerDefence/TowerDefence_image_2.png"
     ],
     "description": "Die hard fan of tower defence games. This project was to learn about pathfinding and AI.",
-    "skills": ["C#", "Unity", "Adobe Photoshop"],
-    "source": "https://github.com/iszard/Phaser-MMO"
+    "skills": ["C#", "Unity", "Adobe Photoshop"]
   },
   {
     "title": "Top Down Plane Shooter - Prototype",
@@ -115,8 +112,7 @@
       "projects/topDownPlaneShooter/TopDownPlaneShooter_image_2.png"
     ],
     "description": "Simple top down scrolling plane shooter. This project was to learn about AI pathfinding.",
-    "skills": ["C#", "Unity", "Adobe Photoshop"],
-    "source": "https://github.com/iszard/Phaser-MMO"
+    "skills": ["C#", "Unity", "Adobe Photoshop"]
   },
   {
     "title": "Phaser MMO - Prototype",
