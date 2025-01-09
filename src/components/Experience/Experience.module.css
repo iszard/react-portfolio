@@ -121,13 +121,24 @@
 }
 
 @media screen and (max-width: 830px) {
+  .container {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
   .content {
     flex-direction: column;
     align-items: center;
     gap: 2.125rem;
   }
 
+  .title {
+    text-align: center;
+  }
+
   .skills {
+    padding-left: 2rem;
+    padding-right: 2rem;
     width: 100%;
     flex-direction: row;
     justify-content: center;
@@ -136,5 +147,36 @@
   .history {
     width: 100%;
     gap: 0.5625rem;
+  }
+
+  .historyItem {
+    padding: 1.125rem 1.25rem;
+  }
+
+  .historyItemHeader {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .historyItem img {
+    margin: 0 auto;
+  }
+
+  .historyItemDetails h3 {
+    font-size: 1.675rem;
+    font-weight: 500;
+  }
+
+  .historyItemDetails h2 {
+    font-size: 1.4rem;
+    font-style: italic;
+    font-weight: 500;
+  }
+
+  .historyDetails {
+    text-align: left;
+    font-size: 1.4rem;
+    width: 100%;
+    padding-right: 1.5rem;
   }
 }

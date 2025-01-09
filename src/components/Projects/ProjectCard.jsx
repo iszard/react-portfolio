@@ -43,7 +43,7 @@ const ProjectCard = ({
 ProjectCard.propTypes = {
   project: PropTypes.exact({
     title: PropTypes.string,
-    imageSrc: PropTypes.string,
+    imageSrc: PropTypes.array,
     description: PropTypes.string,
     skills: PropTypes.array,
     demo: PropTypes.string,

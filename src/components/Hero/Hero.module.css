@@ -105,6 +105,14 @@
     flex-direction: column-reverse;
   }
 
+  .title {
+    font-size: 3.3rem;
+  }
+
+  .description {
+    font-size: 1.675rem;
+  }
+
   .content {
     align-items: center;
   }

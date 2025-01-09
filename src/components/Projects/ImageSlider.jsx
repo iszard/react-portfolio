@@ -17,10 +17,11 @@ import "./ImageSlider.css";
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 
 const ImageSlider = ({ imageURLs, imageAltValue }) => {
+  const swiperLoop = imageURLs.length > 1 ? true : false;
   return (
     <Swiper
       spaceBetween={30}
-      loop={true}
+      loop={swiperLoop}
       centeredSlides={true}
       autoplay={{
         delay: 7000,
