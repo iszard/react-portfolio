@@ -1,13 +1,15 @@
 @import "../../vars.css";
 
 .navbar {
-  position: relative;
+  position: fixed;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding-top: 3.8125rem;
   z-index: 2;
-  margin: 0 10%;
+  padding: 1.5rem 10%;
+  width: 100%;
+  background-color: var(--color-bg);
 }
 
 .title {
@@ -66,9 +68,9 @@
     border-radius: 0.625rem;
     background: rgb(25, 55, 109);
     background: linear-gradient(
-      0deg,
-      rgba(25, 55, 109, 0.2) 0%,
-      rgba(25, 55, 109, 1) 100%
+      15deg,
+      rgba(6, 24, 58, 0.8) 10%,
+      rgba(25, 55, 109, 0.98) 100%
     );
     padding: 1.5rem 2.0625rem;
     box-shadow: 0 0 0.25rem 0 rgba(0, 0, 0, 0.25);

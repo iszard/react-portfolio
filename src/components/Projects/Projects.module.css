@@ -1,7 +1,10 @@
 @import "../../vars.css";
 
+.anchorContainer {
+  padding-top: 5.375rem;
+}
+
 .container {
-  margin-top: 4.75rem;
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
