@@ -90,6 +90,7 @@
       "projects/metroidvania/Metroidvania_image_7.png"
     ],
     "description": "Unity prototype of a Metroidvania type platformer dungeon crawler. The project was to learn about level design and game mechanics.",
+    "descriptionWarning": "Due to its complexity and scope, the source code is available for review upon request.",
     "skills": ["C#", "Unity", "Adobe Photoshop"]
   },
   {
@@ -103,6 +104,7 @@
       "projects/clashOfClainClone/ClashOfClainClone_image_6.png"
     ],
     "description": "After years of playing Clash of Clans. I decided to build a clone to learn about the game mechanics.",
+    "descriptionWarning": "Due to its complexity and scope, the source code is available for review upon request.",
     "skills": ["C#", "Unity", "Apache", "mySQL", "Adobe Photoshop"]
   },
   {

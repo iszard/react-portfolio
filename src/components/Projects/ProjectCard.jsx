@@ -6,7 +6,15 @@ import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
 const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: {
+    title,
+    imageSrc,
+    description,
+    descriptionWarning,
+    skills,
+    demo,
+    source,
+  },
 }) => {
   const imageURLs = imageSrc.map((image) => getImageUrl(image));
 
@@ -35,6 +43,11 @@ const ProjectCard = ({
             Source
           </a>
         )}
+        {descriptionWarning && (
+          <div className={styles.descriptionWarningContainer}>
+            <p className={styles.descriptionWarning}>{descriptionWarning}</p>
+          </div>
+        )}
       </div>
     </div>
   );
@@ -45,6 +58,7 @@ ProjectCard.propTypes = {
     title: PropTypes.string,
     imageSrc: PropTypes.array,
     description: PropTypes.string,
+    descriptionWarning: PropTypes.string,
     skills: PropTypes.array,
     demo: PropTypes.string,
     source: PropTypes.string,

@@ -44,6 +44,24 @@
   padding: 0.125rem 0.6rem;
 }
 
+.descriptionWarningContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 0.875rem;
+  border-radius: 30px;
+  background: #f5cd6e;
+  padding: 0.5rem 1.5rem;
+}
+
+.descriptionWarning {
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-align: center;
+  color: #6a3800;
+  width: 22.1875rem;
+  margin: 0 auto;
+}
+
 .links {
   width: 100%;
   margin-top: 1.625rem;
