@@ -57,6 +57,30 @@
     "demo": "https://www.bingolands.com/"
   },
   {
+    "title": "React Portfolio Site",
+    "imageSrc": [
+      "projects/reactPortfolio/ReactPortfolio_image_1.png",
+      "projects/reactPortfolio/ReactPortfolio_image_2.png",
+      "projects/reactPortfolio/ReactPortfolio_image_3.png",
+      "projects/reactPortfolio/ReactPortfolio_image_4.png"
+    ],
+    "description": "A project to refine my CSS knowledge. The website is built with a mobile-first approach and is fully responsive.",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "React",
+      "Javascript",
+      "Vite",
+      "NPM",
+      "HTML5",
+      "Netlify",
+      "CSS",
+      "CSS Flexbox",
+      "CSS Grid"
+    ],
+    "source": "https://github.com/iszard/CSS-company-demo-site"
+  },
+  {
     "title": "Hosting Company Site - CSS DEMO",
     "imageSrc": [
       "projects/hostingCompanySite-CSSDEMO/cssdemo_main.png",
