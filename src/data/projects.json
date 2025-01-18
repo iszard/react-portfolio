@@ -42,9 +42,9 @@
       "Javascript",
       "Typescript",
       "ExpressJS",
-      "NodeJS",
       "Phaser 2",
       "PixiJS",
+      "NodeJS",
       "CSS",
       "SASS",
       "HTML5",
@@ -70,15 +70,37 @@
       "Web App",
       "React",
       "Javascript",
+      "HTML5",
       "Vite",
       "NPM",
-      "HTML5",
-      "Netlify",
+      "NodeJS",
       "CSS",
       "CSS Flexbox",
-      "CSS Grid"
+      "CSS Grid",
+      "Netlify"
     ],
-    "source": "https://github.com/iszard/CSS-company-demo-site"
+    "source": "https://github.com/iszard/react-portfolio"
+  },
+  {
+    "title": "Tailwind CSS styled React App",
+    "imageSrc": [
+      "projects/projectManagementApp/ProjectManagementApp_image_1.png",
+      "projects/projectManagementApp/ProjectManagementApp_image_2.png",
+      "projects/projectManagementApp/ProjectManagementApp_image_3.png",
+      "projects/projectManagementApp/ProjectManagementApp_image_4.png"
+    ],
+    "description": "A React project I used to dive into Tailwind CSS.",
+    "skills": [
+      "Web App",
+      "React",
+      "Javascript",
+      "HTML5",
+      "Vite",
+      "NPM",
+      "NodeJS",
+      "Tailwind CSS"
+    ],
+    "source": "https://github.com/iszard/react-project-management-app"
   },
   {
     "title": "Hosting Company Site - CSS DEMO",
@@ -94,6 +116,7 @@
       "Mobile App",
       "Web App",
       "Javascript",
+      "NodeJS",
       "CSS",
       "CSS Flexbox",
       "CSS Grid",
