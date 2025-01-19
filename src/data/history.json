@@ -5,10 +5,11 @@
     "startDate": "May, 2024",
     "endDate": "Present",
     "experiences": [
-      "Pitched and oversaw the full development of in-house web based tooling and data storage.",
-      "Architected a front-end React web tool that increased productivity 37%.",
-      "Engineered a scale-able MongoDB back-end that reduced productivity downtime by 24%.",
-      "Implemented coding best practices and unit testing to reduce tech debt and improve future development turnaround times."
+      "Pitched and led the full development of in-house web-based tooling and data storage systems, ensuring alignment with business goals and user needs.",
+      "Designed and architected a React-based web tool that boosted productivity by 37%, streamlining workflows and enhancing user experience.",
+      "Built a scalable MongoDB back-end that reduced productivity downtime by 24%, ensuring robust performance and data integrity.",
+      "Implemented coding best practices and unit testing, significantly reducing technical debt and improving future development turnaround times.",
+      "Managed a team of 2 developers, fostering collaboration, meeting project deadlines, and driving successful project delivery."
     ],
     "imageSrc": "history/myeditor.png"
   },
@@ -18,13 +19,14 @@
     "startDate": "Jan, 2020",
     "endDate": "Jan, 2024",
     "experiences": [
-      "Owned, maintained and innovated a moderate collection of digital tooling products that support an app with millions of daily active users. Innovations reduced tool development by 428%. Turning 3 month projects into 3 week ones.",
-      "Architect digital solutions that improve the quality of work done across a multitude of different departments. Tools improved content integration by 144% and reduced user error by 86%.",
-      "Engineered content integration tools using a wide range of web frameworks including React, Mobx, React-Native and ExpressJS, Javascript/Typescript, React-bootstrap, Webpack, SCSS/CSS. Setting a high level of code quality through unit test solutions like Linter/ESLinter, Jest, RSpec and Cucumber.",
-      "Maintaining and reviewing multiple large repositories of source code through GitHub Enterprise. Creating development solutions for engineers using NVM, NPM, Gulp, Docker containers, GitHub repositories, and NodeJS.",
-      "Communicating large initiatives through a multitude of leadership levels from onboarding co-op engineers up to directors, content integrators, project managers and other non technical leads.",
-      "Enforced a standard of coding practices and peer review processing to reduce tech debt and improve code quality by 162%.",
-      "Mentoring peers as they grow in their careers and provide higher qualities of output."
+      "Owned, maintained, and innovated a suite of digital tooling products supporting an app with millions of daily active users. Reduced tool development timelines by 428%, turning 3-month projects into 3-week ones.",
+      "Architected tools that improved productivity across multiple departments, increasing content integration efficiency by 144% and reducing user errors by 86%.",
+      "Engineered content integration tools using React, Mobx, React-Native, ExpressJS, JavaScript/TypeScript, React-Bootstrap, Webpack, SCSS/CSS. Ensured high-quality code with unit testing solutions like Jest, ESLint, RSpec, and Cucumber.",
+      "Built backend solutions using Ruby on Rails, Redis, and AWS, adding user-retention features and actionable metrics to a flagship product.",
+      "Maintained and reviewed large-scale repositories through GitHub Enterprise, improving workflows with tools like NVM, NPM, Gulp, Docker, and NodeJS.",
+      "Coordinated initiatives across various leadership levels, from onboarding co-op engineers to working with directors, project managers, and non-technical stakeholders.",
+      "Enforced best practices and peer review processes, reducing tech debt and improving code quality by 162%. Mentored team members to elevate their skills and deliver higher-quality results.",
+      "Managed and led a team of 3 developers, ensuring project timelines were met and fostering a collaborative, high-performance environment."
     ],
     "imageSrc": "history/T2_Zynga.png"
   },
@@ -34,11 +36,12 @@
     "startDate": "Jun, 2011",
     "endDate": "Jan, 2020",
     "experiences": [
-      "Designed and kept up client-side social and gaming apps to guarantee a smooth user experience.",
-      "Modern performance standards have been updated into legacy products, improving overall functioning.",
-      "AS2/AS3 products were converted to HTML5, SCSS, JavaScript, and Node.js in order to increase performance and compatibility.",
-      "To increase accessibility and reach, cross-platform solutions for Windows, iOS, and Android were developed.",
-      "Oversaw six team members, promoted teamwork, and kept an eye on project deadlines while researching new technologies such as Unity and Construct 2/3."
+      "Designed, maintained, and enhanced client-side social and gaming applications to ensure a seamless user experience.",
+      "Upgraded AS2/AS3 products to modern standards, converting them to HTML5, SCSS, JavaScript, and Node.js, improving performance and compatibility.",
+      "Utilized libraries such as Phaser, Vagrant, GSAP, Express, Pixi, Backbone, NPM, and REST API to build robust solutions.",
+      "Engineered applications for Windows, iOS, and Android to expand accessibility and user reach.",
+      "Managed and mentored a team of six developers, fostering collaboration and meeting project deadlines while exploring emerging technologies like Unity and Construct 2/3.",
+      "Oversaw project timelines, delegated tasks, and ensured successful delivery of high-quality solutions."
     ],
     "imageSrc": "history/Parlay.png"
   },
