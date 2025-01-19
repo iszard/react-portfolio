@@ -121,6 +121,7 @@
   font-size: 1.5625rem;
   list-style-type: disc;
   margin-left: 1.0625rem;
+  list-style-position: outside;
 }
 
 @media screen and (max-width: 830px) {
