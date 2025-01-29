@@ -24,6 +24,8 @@
       "Engineered content integration tools using React, Mobx, React-Native, ExpressJS, JavaScript/TypeScript, React-Bootstrap, Webpack, SCSS/CSS. Ensured high-quality code with unit testing solutions like Jest, ESLint, RSpec, and Cucumber.",
       "Built backend solutions using Ruby on Rails, Redis, and AWS, adding user-retention features and actionable metrics to a flagship product.",
       "Maintained and reviewed large-scale repositories through GitHub Enterprise, improving workflows with tools like NVM, NPM, Gulp, Docker, and NodeJS.",
+      "Designed and implemented microservice architecture, breaking down large monolithic applications into modular, independently deployable services. This approach improved scalability, reduced downtime, and streamlined the integration of new features. Worked closely with cross-functional teams to ensure smooth communication between microservices using RESTful APIs.",
+      "Maintained and reviewed large-scale monorepo for the frontend tooling suite while also participating in a polyrepo of backend repositories through GitHub Enterprise, improving workflows with tools like NVM, NPM, Gulp, Docker, and NodeJS.",
       "Coordinated initiatives across various leadership levels, from onboarding co-op engineers to working with directors, project managers, and non-technical stakeholders.",
       "Enforced best practices and peer review processes, reducing tech debt and improving code quality by 162%. Mentored team members to elevate their skills and deliver higher-quality results.",
       "Managed and led a team of 3 developers, ensuring project timelines were met and fostering a collaborative, high-performance environment."
@@ -39,6 +41,7 @@
       "Designed, maintained, and enhanced client-side social and gaming applications to ensure a seamless user experience.",
       "Upgraded AS2/AS3 products to modern standards, converting them to HTML5, SCSS, JavaScript, and Node.js, improving performance and compatibility.",
       "Utilized libraries such as Phaser, Vagrant, GSAP, Express, Pixi, Backbone, NPM, and REST API to build robust solutions.",
+      "Applied WCAG and AODA accessibility standards to ensure all applications were accessible to users with disabilities, focusing on visual, auditory, and navigational needs.",
       "Engineered applications for Windows, iOS, and Android to expand accessibility and user reach.",
       "Managed and mentored a team of six developers, fostering collaboration and meeting project deadlines while exploring emerging technologies like Unity and Construct 2/3.",
       "Oversaw project timelines, delegated tasks, and ensured successful delivery of high-quality solutions."
