@@ -8,28 +8,30 @@
       "Pitched and led the full development of in-house web-based tooling and data storage systems, ensuring alignment with business goals and user needs.",
       "Designed and architected a React-based web tool that boosted productivity by 37%, streamlining workflows and enhancing user experience.",
       "Built a scalable MongoDB back-end that reduced productivity downtime by 24%, ensuring robust performance and data integrity.",
-      "Implemented coding best practices and unit testing, significantly reducing technical debt and improving future development turnaround times.",
-      "Managed a team of 2 developers, fostering collaboration, meeting project deadlines, and driving successful project delivery."
+      "Implemented coding best practices and unit testing, significantly reducing technical debt and improving future development turnaround times."
     ],
     "imageSrc": "history/myeditor.png"
   },
   {
-    "role": "Tooling Architect / Lead Engineer - Full Stack Software Engineer 2",
+    "role": "Full Stack Software Engineer 2",
     "organization": "Zynga",
     "startDate": "Jan, 2020",
     "endDate": "Jan, 2024",
     "experiences": [
-      "Owned, maintained, and innovated a suite of digital tooling products supporting an app with millions of daily active users. Reduced tool development timelines by 428%, turning 3-month projects into 3-week ones.",
-      "Architected tools that improved productivity across multiple departments, increasing content integration efficiency by 144% and reducing user errors by 86%.",
-      "Engineered content integration tools using React, Mobx, React-Native, ExpressJS, JavaScript/TypeScript, React-Bootstrap, Webpack, SCSS/CSS. Ensured high-quality code with unit testing solutions like Jest, ESLint, RSpec, and Cucumber.",
-      "Built backend solutions using Ruby on Rails, Redis, and AWS, adding user-retention features and actionable metrics to a flagship product.",
-      "Maintained and reviewed large-scale repositories through GitHub Enterprise, improving workflows with tools like NVM, NPM, Gulp, Docker, and NodeJS.",
-      "Designed and implemented microservice architecture, breaking down large monolithic applications into modular, independently deployable services. This approach improved scalability, reduced downtime, and streamlined the integration of new features. Worked closely with cross-functional teams to ensure smooth communication between microservices using RESTful APIs.",
-      "Maintained and reviewed large-scale monorepo for the frontend tooling suite while also participating in a polyrepo of backend repositories through GitHub Enterprise, improving workflows with tools like NVM, NPM, Gulp, Docker, and NodeJS.",
-      "Proto-typing integrated AI-driven content automation tools.",
+      "Designed and maintained a suite of digital tools for an app with millions of daily users, accelerating development timelines by 428% and boosting productivity by 144% while reducing user errors by 86% through Micro Frontend Architecture, UI Component Reusability, and a consistent look and feel.",
+      "Engineered content integration tools using React, MobX, React Native, Node.js, Express.js, JavaScript/TypeScript, React-Bootstrap, and SCSS/CSS, incorporating React Hooks, React Router,  Context API and RESTful APIs. Demonstrating efficient state management and routing, while adhering to pixel-perfect Figma designs.",
+      "Integrated tools with a Ruby on Rails backend coupled with NoSQL, utilizing AWS CloudFront, EC2, and S3 services for resource and storage. uploading and downloading.",
+      "Ensured high-quality code with unit testing solutions such as React Testing Library, Jest, ESLint, Prettier, RSpec, and Cucumber.",
+      "Implemented Microservice Architecture, deploying services to enhance scalability, reduce downtime, and streamline feature integration.",
+      "Optimized and maintained a large-scale monorepo and polyrepo repositories via GitHub Enterprise, enhancing workflows and CI/CD pipelines using NVM, NPM, Gulp, Babel, Webpack, Docker.",
+      "Implemented and integrated OAuth and JWT authentication protocols across multiple products to ensure secure internal and external service access.",
+      "Managed multiple product features concurrently using Git branching and repository forking to ensure efficient development and collaboration.",
+      "Created and presented project and feature proposals, including scope breakdown, task estimation, risk evaluation, and dependency identification.",
+      "Managed projects and tracked tickets using Confluence and Jira, ensuring streamlined workflows and collaboration.",
+      "Debugged and optimized code performance using Chrome DevTools, React DevTools, memory profiling, and Lighthouse audits.",
       "Coordinated initiatives across various leadership levels, from onboarding co-op engineers to working with directors, project managers, and non-technical stakeholders.",
-      "Enforced best practices and peer review processes, reducing tech debt and improving code quality by 162%. Mentored team members to elevate their skills and deliver higher-quality results.",
-      "Managed and led a team of 3 developers, ensuring project timelines were met and fostering a collaborative, high-performance environment."
+      "Enforced best practices and peer code reviews, reducing technical debt and improving code quality by 162%. Mentored team members to elevate their skills and deliver higher-quality results.",
+      "Managed and led a team of 3 developers, ensuring project timelines were met while fostering a collaborative, high-performance environment."
     ],
     "imageSrc": "history/T2_Zynga.png"
   },
@@ -41,7 +43,11 @@
     "experiences": [
       "Designed, maintained, and enhanced client-side social and gaming applications to ensure a seamless user experience.",
       "Upgraded AS2/AS3 products to modern standards, converting them to HTML5, SCSS, JavaScript, and Node.js, improving performance and compatibility.",
-      "Utilized libraries such as Phaser, Vagrant, GSAP, Express, Pixi, Backbone, NPM, and REST API to build robust solutions.",
+      "Leveraged libraries and technologies such as Phaser, Vagrant, GSAP, Docker, Express, Pixi, Backbone, NPM, REST API, Micro Frontend Architecture, and UI Component Reusability to build high-performance solutions, reducing project scope by 25%.",
+      "Implemented WebSockets and jQuery to enable real-time communication with backend data sources using MySQL, supporting live chat and gameplay data flows for a dynamic user experience.",
+      "Debugged and optimized code performance using Chrome DevTools and memory profiling to ensure efficient application performance.",
+      "Tracked and managed projects and tickets using Confluence and Jira to streamline development and collaboration.",
+      "Integrated JWT authentication across multiple client-facing products, ensuring secure and seamless user experiences.",
       "Applied WCAG and AODA accessibility standards to ensure all applications were accessible to users with disabilities, focusing on visual, auditory, and navigational needs.",
       "Engineered applications for Windows, iOS, and Android to expand accessibility and user reach.",
       "Managed and mentored a team of six developers, fostering collaboration and meeting project deadlines while exploring emerging technologies like Unity and Construct 2/3.",
@@ -55,7 +61,7 @@
     "startDate": "Dec, 2010",
     "endDate": "May, 2011",
     "experiences": [
-      "Created high-performing social and gaming application user interfaces to increase user engagement.",
+      "Created high-performing social/chat and gaming applications using Action Script 3 and Websockets to increase user engagement.",
       "Dynamic and responsively designed interface elements to enhance the overall performance of the program.",
       "Worked together to guarantee that functionality and user experience were seamlessly integrated with designers and stakeholders.",
       "To guarantee seamless interactions and rapid load times, performance testing and optimization were carried out.",
