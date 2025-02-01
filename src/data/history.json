@@ -18,7 +18,7 @@
     "startDate": "Jan, 2020",
     "endDate": "Jan, 2024",
     "experiences": [
-      "Designed and maintained a suite of digital tools for an app with millions of daily users, accelerating development timelines by 428% and boosting productivity by 144% while reducing user errors by 86% through Micro Frontend Architecture, UI Component Reusability, and a consistent look and feel.",
+      "Designed and maintained a suite of digital products for an app with millions of daily users, accelerating development timelines by 428% and boosting productivity by 144% while reducing user errors by 86% through Micro Frontend Architecture, UI Component Reusability, and a consistent look and feel.",
       "Engineered content integration tools using React, MobX, React Native, Node.js, Express.js, JavaScript/TypeScript, React-Bootstrap, and SCSS/CSS, incorporating React Hooks, React Router,  Context API and RESTful APIs. Demonstrating efficient state management and routing, while adhering to pixel-perfect Figma designs.",
       "Integrated tools with a Ruby on Rails backend coupled with NoSQL, utilizing AWS CloudFront, EC2, and S3 services for resource and storage. uploading and downloading.",
       "Ensured high-quality code with unit testing solutions such as React Testing Library, Jest, ESLint, Prettier, RSpec, and Cucumber.",
