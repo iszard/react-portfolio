@@ -81,8 +81,7 @@
       "AWS Amplify",
       "AWS S3"
     ],
-    "source": "https://github.com/iszard/nextlevel-food-nextjs-demo",
-    "demo": "https://main.dqrqsdde67s0d.amplifyapp.com"
+    "source": "https://github.com/iszard/nextlevel-food-nextjs-demo"
   },
   {
     "title": "React Portfolio Site",
