@@ -80,7 +80,29 @@
       "CSS Modules",
       "Netlify"
     ],
-    "source": "https://github.com/iszard/react-portfolio"
+    "source": "https://github.com/iszard/react-portfolio",
+    "demo": "https://main--gavyn-elrick-portfolio.netlify.app/"
+  },
+  {
+    "title": "Shopping Cart React App - DEMO",
+    "imageSrc": [
+      "projects/reactShoppingCartFrontEnd/React_shoppingCart_front-end_image_1.png",
+      "projects/reactShoppingCartFrontEnd/React_shoppingCart_front-end_image_2.png"
+    ],
+    "description": "A Project used to display knowledge in React concepts like useReducer and Context API.",
+    "skills": [
+      "Web App",
+      "React",
+      "Javascript",
+      "CSS",
+      "HTML5",
+      "Vite",
+      "NPM",
+      "NodeJS",
+      "AWS Amplify"
+    ],
+    "source": "https://github.com/iszard/react-project-management-app",
+    "demo": "https://main.d3526xw2nuuymb.amplifyapp.com"
   },
   {
     "title": "Tailwind CSS styled React App",
@@ -122,9 +144,11 @@
       "CSS Flexbox",
       "CSS Grid",
       "CSS Transition",
-      "CSS Animation"
+      "CSS Animation",
+      "AWS Amplify"
     ],
-    "source": "https://github.com/iszard/CSS-company-demo-site"
+    "source": "https://github.com/iszard/CSS-company-demo-site",
+    "demo": "https://main.d1arh65x8acgsp.amplifyapp.com/"
   },
   {
     "title": "Metroidvania Platformer - Prototype",

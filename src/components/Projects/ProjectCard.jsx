@@ -2,8 +2,8 @@ import PropTypes from "prop-types";
 
 import ImageSlider from "./ImageSlider";
 
-import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
+import styles from "./ProjectCard.module.css";
 
 const ProjectCard = ({
   project: {
@@ -34,7 +34,12 @@ const ProjectCard = ({
       </ul>
       <div className={styles.links}>
         {demo && (
-          <a className={styles.link} href={demo}>
+          <a
+            className={styles.link}
+            href={demo}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Demo
           </a>
         )}
