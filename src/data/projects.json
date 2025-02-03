@@ -57,6 +57,34 @@
     "demo": "https://www.bingolands.com/"
   },
   {
+    "title": "Nextlevel Food Community",
+    "imageSrc": [
+      "projects/nextjsNextLevelFoodDemo/Nextjs_NextLevel_Food_demo_image_1.png",
+      "projects/nextjsNextLevelFoodDemo/Nextjs_NextLevel_Food_demo_image_2.png",
+      "projects/nextjsNextLevelFoodDemo/Nextjs_NextLevel_Food_demo_image_3.png",
+      "projects/nextjsNextLevelFoodDemo/Nextjs_NextLevel_Food_demo_image_4.png"
+    ],
+    "description": "This project showcases my Next.js and React 19 expertise, using App Router, dynamic routes, server/client components, SQLite, AWS S3, XSS protection, and advanced React concepts like Suspense and useFormState.",
+    "skills": [
+      "Web App",
+      "NextJS",
+      "React",
+      "React Routes",
+      "Javascript",
+      "HTML5",
+      "Vite",
+      "NPM",
+      "NodeJS",
+      "CSS",
+      "XSS",
+      "SQLite",
+      "AWS Amplify",
+      "AWS S3"
+    ],
+    "source": "https://github.com/iszard/nextlevel-food-nextjs-demo",
+    "demo": "https://main.dqrqsdde67s0d.amplifyapp.com"
+  },
+  {
     "title": "React Portfolio Site",
     "imageSrc": [
       "projects/reactPortfolio/ReactPortfolio_image_1.png",
@@ -101,7 +129,7 @@
       "NodeJS",
       "AWS Amplify"
     ],
-    "source": "https://github.com/iszard/react-project-management-app",
+    "source": "https://github.com/iszard/react-shopping-cart",
     "demo": "https://main.d3526xw2nuuymb.amplifyapp.com"
   },
   {
