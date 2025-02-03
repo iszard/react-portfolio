@@ -8,6 +8,7 @@
       "Pitched and led the full development of in-house web-based tooling and data storage systems, ensuring alignment with business goals and user needs.",
       "Designed and architected a React-based web tool that boosted productivity by 37%, streamlining workflows and enhancing user experience.",
       "Built a scalable MongoDB back-end that reduced productivity downtime by 24%, ensuring robust performance and data integrity.",
+      "Integrated data caching and React Hooks for efficient state management, enhancing application responsiveness and maintainability.",
       "Implemented coding best practices and unit testing, significantly reducing technical debt and improving future development turnaround times."
     ],
     "imageSrc": "history/myeditor.png"
