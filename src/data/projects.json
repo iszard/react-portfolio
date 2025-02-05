@@ -78,6 +78,7 @@
       "CSS",
       "XSS",
       "SQLite",
+      "MongoDB",
       "AWS Amplify",
       "AWS S3"
     ],
