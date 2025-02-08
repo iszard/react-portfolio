@@ -64,7 +64,7 @@
       "projects/nextjsNextLevelFoodDemo/Nextjs_NextLevel_Food_demo_image_3.png",
       "projects/nextjsNextLevelFoodDemo/Nextjs_NextLevel_Food_demo_image_4.png"
     ],
-    "description": "This project showcases my Next.js and React 19 expertise, using App Router, dynamic routes, server/client components, SQLite, AWS S3, XSS protection, and advanced React concepts like Suspense and useFormState.",
+    "description": "This project showcases my Next.js and React 19 expertise, using App Router, dynamic routes, server/client components, MongoDB, SQLite, AWS S3, XSS protection, and advanced React concepts like Suspense and useFormState.",
     "skills": [
       "Web App",
       "NextJS",
@@ -84,6 +84,31 @@
     ],
     "source": "https://github.com/iszard/nextlevel-food-nextjs-demo",
     "demo": "https://main.dqrqsdde67s0d.amplifyapp.com"
+  },
+  {
+    "title": "React Food Ordering Site",
+    "imageSrc": [
+      "projects/reactFoodOrdering/React_Food_Ordering_image_1.png",
+      "projects/reactFoodOrdering/React_Food_Ordering_image_2.png",
+      "projects/reactFoodOrdering/React_Food_Ordering_image_3.png",
+      "projects/reactFoodOrdering/React_Food_Ordering_image_4.png"
+    ],
+    "description": "This project showcases my React 19 expertise, micro architecture components, NodeJS, shopping card, form validation, server side storage of orders and advanced React concepts like useFormState.\n\n [Ongoing project]",
+    "skills": [
+      "Mobile App",
+      "Web App",
+      "NextJS",
+      "React",
+      "Javascript",
+      "ExpressJS",
+      "Fetch API",
+      "HTML5",
+      "Vite",
+      "NPM",
+      "NodeJS",
+      "CSS"
+    ],
+    "source": "https://github.com/iszard/react-place-picker-with-backend-app"
   },
   {
     "title": "React Portfolio Site",
